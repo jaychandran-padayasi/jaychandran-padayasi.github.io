@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello, world! I'm Jay."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, world!
-
-I'm Jay. I am a fifth-year PhD Candidate at The Ohio State University in the Department of Physics. I am interested in phase transitions and critical phenomena across physical systems. To borrow a quote attributed to Sasha Polyakov, 
+I am a fifth-year PhD Candidate at The Ohio State University in the Department of Physics. I am interested in phase transitions and critical phenomena across physical systems. To borrow a quote attributed to Sasha Polyakov, 
 > I wanted to learn about elementary particles by studying boiling water.
 
 

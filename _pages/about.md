@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, world! I'm Jay."
+title: "I'm Jay."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD Candidate at The Ohio State University in the Department of Physics. I am interested in phase transitions and critical phenomena across physical systems. To borrow a quote attributed to Sasha Polyakov, 
+Hello, World! Welcome to my neck of the webs. I am a fifth-year PhD Candidate at The Ohio State University in the Department of Physics. I am interested in phase transitions and critical phenomena across statistical physics. 
+
+Statistical physics is the study of states of matter with a large number of interacting particles. The problem seems intractable when one is looking at the most granular level. Surprisingly, physics has developed powerful methods to reduce the complexity and predict things with very few quantities. For instance, consider a volume of gas composed of ~ 10^23 molecules. Thermodynamics teaches us that it is possible to track and predict its behavior at equilibrium with just three state variables, the temperature, pressure and volume. Moreover, it turns out that the job of statistical physics is made easier by nature; systems/models at the **critical point** between two phases of matter have the remarkable property of **universality**.
+
+Universality refers to the fact that many statistical properties are determined by a handful of relevant parameters. The critical point of water (where it exhibits a continuous transition between liquid and gas), and the simplest model for a magnet, the Ising model, lie in the same universality class characterized by the same set of universal numbers, called critical exponents. These numbers define the behavior of all responses that experiments can measure at the transition, and in this sense, they define the universality class itself. Finding these exponents is the primary goal of the theory of phase transitions, and has been the general undertone of my work during my PhD.
+
+To borrow a quote attributed to one of the greats of the field, the Russian physicists Sasha Polyakov, 
 > I wanted to learn about elementary particles by studying boiling water.
 
 

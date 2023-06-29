@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Physics (& stuff)"
+title                    : "Physics (and stuff)"
 title_separator          : "-"
 name                     : &name "Jay Padayasi"
 description              : &description "personal description"

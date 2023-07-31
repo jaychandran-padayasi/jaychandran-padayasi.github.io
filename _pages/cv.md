@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Physics, The Ohio State University, 2024 (expected)
+  * Advisor: Prof. Ilya Gruzberg
+* Integrated M.Sc. (Hons.) in Physics, Birla Institute of Technology and Science, 2019
+* B.E. (Hons.) in Electrical & Electronics Engineering, Birla Institute of Technology and Science, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2018 - May 2019: Research Assistant
+  * Institut Quantique, Universite de Sherbrooke, Sherbrooke, Quebec, Canada
+  * Supervisor: Prof. Andre-Marie Tremblay
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Indian Academy of Sciences Summer Research Fellow
+  * Bhabha Atomic Research Center, Mumbai, India
+  * Supervisor: Prof. Lavanya M Ramaniah
   
 Skills
 ======
@@ -56,4 +55,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Vice President, Random Interactions Student Organizations, OSU, Columbus, OH
+  * In charge of organizing social events and collaborative exercises for the Condensed Matter Physics community at OSU Physics
+* Service Volunteer, Center of Science and Industry, Columbus, OH

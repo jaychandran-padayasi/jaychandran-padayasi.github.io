@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello, World! Welcome to my neck of the webs. I am a fifth-year PhD Candidate at The Ohio State University in the Department of Physics. I work on problems in phase transitions and critical phenomena across statistical physics. You can read about my research, take a look at my publications, or go through some miscellaneous notes I have written throughout my graduate school career. 
+Hello, World! Welcome to my neck of the webs. I am a fifth-year PhD Candidate at The Ohio State University in the Department of Physics. I work on problems in phase transitions and critical phenomena across statistical physics. You can read about my [research](https://jaychandran-padayasi.github.io/research/), take a look at my publications, or go through some miscellaneous notes I have written throughout my graduate school career. 
 
-Outside of physics, I have dabbled in _NLP_ & _Imbalanced Learning_. 
+Outside of physics, I have dabbled in [_NLP_](https://github.com/glebzhelezov/Erdos_project/tree/main/notebooks) & _Imbalanced Learning_(https://github.com/brooksminer/pulse-ox-correction). 
 
-I have a deep love for dancing, especially Indian classical forms and modern/contemporary dance. Maybe you will find some links _here_ to my previous performances. 
+<!-- I have a deep love for dancing, especially Indian classical forms and modern/contemporary dance. Maybe you will find some links _here_ to my previous performances.  -->
 
 <!-- 
 Statistical physics is the study of states of matter with a large number of interacting particles. The problem seems intractable when one is looking at the most granular level. Surprisingly, physics has developed powerful methods to reduce the complexity and predict things with very few quantities. For instance, consider a volume of gas composed of ~ 10^23 molecules. Thermodynamics teaches us that it is possible to track and predict its behavior at equilibrium with just three state variables, the temperature, pressure and volume. Moreover, it turns out that the job of statistical physics is made easier by nature; systems/models at the **critical point** between two phases of matter have the remarkable property of **universality**.
